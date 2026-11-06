@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o(a) ian 👋</h1>
+<h1 align="center">Olá, eu sou o ian 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Estudante+de+Cybersecurity+%F0%9F%94%90;Explorador+de+S.O.+por+hobby+%F0%9F%92%BB;Integrado+%C3%A0+seita+do+Linux+%F0%9F%90%A7;sudo+rm+-rf+medo" alt="Typing SVG" />
